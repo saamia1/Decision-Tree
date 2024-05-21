@@ -58,24 +58,29 @@ This repository contains the following:
 To install and run this project, follow these steps:
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/decision-tree-learning.git
+   '''
 2. Navigate to the project directory:
-   '''bash
+   '''
    cd decision-tree-learning
-3. Install dependencies:
-   '''bash
+   '''
+4. Install dependencies:
+   '''
    pip install -r requirements.txt
-4. Open the Jupyter Notebook:
-   '''bash
+   '''
+6. Open the Jupyter Notebook:
+   '''
    jupyter notebook
+   '''
 
 ## Usage
 
 To use the Decision Tree Learning project, follow these steps:
 
 1. Open the Jupyter Notebook in your browser:
-'''bash
+'''
 jupyter notebook Decision_Tree_Learning.ipynb
-2. Run the cells to load the datasets and train the decision tree models.
-3. Evaluate the models using the provided code and analyze the results.
+'''
+3. Run the cells to load the datasets and train the decision tree models.
+4. Evaluate the models using the provided code and analyze the results.
